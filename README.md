@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikuru
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and React
 - 📫 How to reach me Twitter:@mikuru07_1031
 
 <!---
